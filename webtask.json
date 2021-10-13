@@ -2,7 +2,7 @@
   "title": "Paro Account Link",
   "name": "Paro-account-link",
   "version": "2.7",
-  "preVersion": "2.6.3",
+ // "preVersion": "2.6.3",
   "author": "Paro",
   "description":
     "This extension gives Auth0 customers the ability to allow their users to link their accounts",
